@@ -1,2 +1,7 @@
 # JAVA_STUDY
 JAVA 학습
+
+2022/03~2022/04
+
+교육기관 : KG에듀원 ITBANK
+
